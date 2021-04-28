@@ -191,7 +191,7 @@
 			"graphics": [
 				{
 					"left": 1050,
-					"top": 483,
+					"top": 483.0000000000001,
 					"width": 2100,
 					"height": 966,
 					"z_index": 0,
@@ -2811,7 +2811,7 @@
 					"z_index": 0,
 					"fill": "transparent",
 					"stroke": "#ff0000",
-					"page_id": 0,
+					"page_id": "-M4AEqDKwYNfJ1ofYeI8",
 					"type": "path",
 					"rotation": 0,
 					"layer": "walls",
@@ -2831,7 +2831,7 @@
 					"z_index": 0,
 					"fill": "transparent",
 					"stroke": "#ff0000",
-					"page_id": 0,
+					"page_id": "-M4AEqDKwYNfJ1ofYeI8",
 					"type": "path",
 					"rotation": 0,
 					"layer": "walls",
@@ -2851,7 +2851,7 @@
 					"z_index": 0,
 					"fill": "transparent",
 					"stroke": "#ffff00",
-					"page_id": 0,
+					"page_id": "-M4AEqDKwYNfJ1ofYeI8",
 					"type": "path",
 					"rotation": 0,
 					"layer": "walls",
@@ -2871,7 +2871,7 @@
 					"z_index": 0,
 					"fill": "transparent",
 					"stroke": "#ffff00",
-					"page_id": 0,
+					"page_id": "-M4AEqDKwYNfJ1ofYeI8",
 					"type": "path",
 					"rotation": 0,
 					"layer": "walls",
@@ -2891,7 +2891,7 @@
 					"z_index": 0,
 					"fill": "transparent",
 					"stroke": "#ffff00",
-					"page_id": 0,
+					"page_id": "-M4AEqDKwYNfJ1ofYeI8",
 					"type": "path",
 					"rotation": 0,
 					"layer": "walls",
@@ -2911,7 +2911,7 @@
 					"z_index": 0,
 					"fill": "transparent",
 					"stroke": "#ffff00",
-					"page_id": 0,
+					"page_id": "-M4AEqDKwYNfJ1ofYeI8",
 					"type": "path",
 					"rotation": 0,
 					"layer": "walls",
@@ -2931,7 +2931,7 @@
 					"z_index": 0,
 					"fill": "transparent",
 					"stroke": "#ffff00",
-					"page_id": 0,
+					"page_id": "-M4AEqDKwYNfJ1ofYeI8",
 					"type": "path",
 					"rotation": 0,
 					"layer": "walls",
@@ -2951,7 +2951,7 @@
 					"z_index": 0,
 					"fill": "transparent",
 					"stroke": "#ff0000",
-					"page_id": 0,
+					"page_id": "-M4AEqDKwYNfJ1ofYeI8",
 					"type": "path",
 					"rotation": 0,
 					"layer": "walls",
@@ -7166,326 +7166,272 @@
 					"0E7F0D1B-48B9-4B89-B848-76ECC494D3E1": {
 						"avatar": "http://files.d20.io/images/1464/med.png?1335737697",
 						"id": "0E7F0D1B-48B9-4B89-B848-76ECC494D3E1",
-						"name": "Six of Hearts",
-						"placement": 99
+						"name": "Six of Hearts"
 					},
 					"110C9DF1-360D-40CC-ADAB-1D99F7FC302A": {
 						"avatar": "http://files.d20.io/images/1466/med.png?1335737714",
 						"id": "110C9DF1-360D-40CC-ADAB-1D99F7FC302A",
-						"name": "Eight of Hearts",
-						"placement": 99
+						"name": "Eight of Hearts"
 					},
 					"1252C24A-32B6-499E-A212-355ACAF3C732": {
 						"avatar": "http://files.d20.io/images/1465/med.png?1335737705",
 						"id": "1252C24A-32B6-499E-A212-355ACAF3C732",
-						"name": "Seven of Hearts",
-						"placement": 99
+						"name": "Seven of Hearts"
 					},
 					"13401808-636C-41AA-B7F0-A34D7ED987BF": {
 						"avatar": "http://files.d20.io/images/1472/med.png?1335737762",
 						"id": "13401808-636C-41AA-B7F0-A34D7ED987BF",
-						"name": "Ace of Hearts",
-						"placement": 99
+						"name": "Ace of Hearts"
 					},
 					"190FCDB6-0271-481F-9F1A-BBC127287E39": {
 						"avatar": "http://files.d20.io/images/1476/med.png?1335737796",
 						"id": "190FCDB6-0271-481F-9F1A-BBC127287E39",
-						"name": "Five of Spades",
-						"placement": 99
+						"name": "Five of Spades"
 					},
 					"1E728ADC-33D0-4CD9-A1DE-D345C250845D": {
 						"avatar": "http://files.d20.io/images/1486/med.png?1335737876",
 						"id": "1E728ADC-33D0-4CD9-A1DE-D345C250845D",
-						"name": "Black Joker",
-						"placement": 99
+						"name": "Black Joker"
 					},
 					"2257A8D3-74C0-405A-A1EF-504EC2382D09": {
 						"avatar": "http://files.d20.io/images/1438/med.png?1335737473",
 						"id": "2257A8D3-74C0-405A-A1EF-504EC2382D09",
-						"name": "Six of Clubs",
-						"placement": 99
+						"name": "Six of Clubs"
 					},
 					"2AFEBEF8-3706-4F25-A3B9-2ECE232E1EC5": {
 						"avatar": "http://files.d20.io/images/1439/med.png?1335737481",
 						"id": "2AFEBEF8-3706-4F25-A3B9-2ECE232E1EC5",
-						"name": "Seven of Clubs",
-						"placement": 99
+						"name": "Seven of Clubs"
 					},
 					"2D55728D-BC3C-41CF-9516-6E55D66ABBEE": {
 						"avatar": "http://files.d20.io/images/1471/med.png?1335737754",
 						"id": "2D55728D-BC3C-41CF-9516-6E55D66ABBEE",
-						"name": "King of Hearts",
-						"placement": 99
+						"name": "King of Hearts"
 					},
 					"33DA353A-C68E-4227-96C5-FA0F0F31341B": {
 						"avatar": "http://files.d20.io/images/1450/med.png?1335737569",
 						"id": "33DA353A-C68E-4227-96C5-FA0F0F31341B",
-						"name": "Five of Diamonds",
-						"placement": 99
+						"name": "Five of Diamonds"
 					},
 					"34C6DEF9-ADEF-4F6B-9404-19B0861871C7": {
 						"avatar": "http://files.d20.io/images/1437/med.png?1335737465",
 						"id": "34C6DEF9-ADEF-4F6B-9404-19B0861871C7",
-						"name": "Five of Clubs",
-						"placement": 99
+						"name": "Five of Clubs"
 					},
 					"3567727D-69A1-4B57-B08A-023412437248": {
 						"avatar": "http://files.d20.io/images/1458/med.png?1335737641",
 						"id": "3567727D-69A1-4B57-B08A-023412437248",
-						"name": "King of Diamonds",
-						"placement": 99
+						"name": "King of Diamonds"
 					},
 					"3666790F-C0DA-43AD-8E8E-23F59F00A0CF": {
 						"avatar": "http://files.d20.io/images/1483/med.png?1335737852",
 						"id": "3666790F-C0DA-43AD-8E8E-23F59F00A0CF",
-						"name": "Queen of Spades",
-						"placement": 99
+						"name": "Queen of Spades"
 					},
 					"36D907D6-B340-4809-A033-216C8BCF7159": {
 						"avatar": "http://files.d20.io/images/1468/med.png?1335737729",
 						"id": "36D907D6-B340-4809-A033-216C8BCF7159",
-						"name": "Ten of Hearts",
-						"placement": 99
+						"name": "Ten of Hearts"
 					},
 					"41B8D164-53E3-4825-B34A-90516FDDECA8": {
 						"avatar": "http://files.d20.io/images/1469/med.png?1335737737",
 						"id": "41B8D164-53E3-4825-B34A-90516FDDECA8",
-						"name": "Jack of Hearts",
-						"placement": 99
+						"name": "Jack of Hearts"
 					},
 					"4288EF3F-19A8-4DB2-B8E9-BFBAD14A9500": {
 						"avatar": "http://files.d20.io/images/1481/med.png?1335737835",
 						"id": "4288EF3F-19A8-4DB2-B8E9-BFBAD14A9500",
-						"name": "Ten of Spades",
-						"placement": 99
+						"name": "Ten of Spades"
 					},
 					"4C00B0FB-566A-4B3B-987A-C1851E593AA5": {
 						"avatar": "http://files.d20.io/images/1455/med.png?1335737614",
 						"id": "4C00B0FB-566A-4B3B-987A-C1851E593AA5",
-						"name": "Ten of Diamonds",
-						"placement": 99
+						"name": "Ten of Diamonds"
 					},
 					"51403249-45D7-45C8-B87E-2863DA016499": {
 						"avatar": "http://files.d20.io/images/1442/med.png?1335737503",
 						"id": "51403249-45D7-45C8-B87E-2863DA016499",
-						"name": "Ten of Clubs",
-						"placement": 99
+						"name": "Ten of Clubs"
 					},
 					"5B37E3FE-B99A-4594-92D9-E2C2C0008FFF": {
 						"avatar": "http://files.d20.io/images/1451/med.png?1335737579",
 						"id": "5B37E3FE-B99A-4594-92D9-E2C2C0008FFF",
-						"name": "Six of Diamonds",
-						"placement": 99
+						"name": "Six of Diamonds"
 					},
 					"5F602642-A624-4877-B1B9-5715DF8D02B0": {
 						"avatar": "http://files.d20.io/images/1457/med.png?1335737632",
 						"id": "5F602642-A624-4877-B1B9-5715DF8D02B0",
-						"name": "Queen of Diamonds",
-						"placement": 99
+						"name": "Queen of Diamonds"
 					},
 					"61C9F0F0-BFE4-4ED5-8A55-2B75274702AD": {
 						"avatar": "http://files.d20.io/images/1448/med.png?1335737552",
 						"id": "61C9F0F0-BFE4-4ED5-8A55-2B75274702AD",
-						"name": "Three of Diamonds",
-						"placement": 99
+						"name": "Three of Diamonds"
 					},
 					"64CC77BB-4565-496A-8871-94BF93401B67": {
 						"avatar": "http://files.d20.io/images/1460/med.png?1335737667",
 						"id": "64CC77BB-4565-496A-8871-94BF93401B67",
-						"name": "Two of Hearts",
-						"placement": 99
+						"name": "Two of Hearts"
 					},
 					"65965D14-1AFA-45F1-B106-8235361F7C15": {
 						"avatar": "http://files.d20.io/images/1459/med.png?1335737651",
 						"id": "65965D14-1AFA-45F1-B106-8235361F7C15",
-						"name": "Ace of Diamonds",
-						"placement": 99
+						"name": "Ace of Diamonds"
 					},
 					"67388D62-EDF6-4A1F-935A-43EE6BD41FD8": {
 						"avatar": "http://files.d20.io/images/1478/med.png?1335737811",
 						"id": "67388D62-EDF6-4A1F-935A-43EE6BD41FD8",
-						"name": "Seven of Spades",
-						"placement": 99
+						"name": "Seven of Spades"
 					},
 					"68AC642B-9C27-42E7-93B0-920B9164C622": {
 						"avatar": "http://files.d20.io/images/1435/med.png?1335737450",
 						"id": "68AC642B-9C27-42E7-93B0-920B9164C622",
-						"name": "Three of Clubs",
-						"placement": 99
+						"name": "Three of Clubs"
 					},
 					"6A6C3284-EFF1-449C-A02B-B7B0FDF7A5D5": {
 						"avatar": "http://files.d20.io/images/1467/med.png?1335737721",
 						"id": "6A6C3284-EFF1-449C-A02B-B7B0FDF7A5D5",
-						"name": "Nine of Hearts",
-						"placement": 99
+						"name": "Nine of Hearts"
 					},
 					"6C8DF866-9243-4575-8F88-19C27AB39D27": {
 						"avatar": "http://files.d20.io/images/1445/med.png?1335737528",
 						"id": "6C8DF866-9243-4575-8F88-19C27AB39D27",
-						"name": "King of Clubs",
-						"placement": 99
+						"name": "King of Clubs"
 					},
 					"855E050F-EA2D-4B32-901D-56BB7E4B5857": {
 						"avatar": "http://files.d20.io/images/1475/med.png?1335737788",
 						"id": "855E050F-EA2D-4B32-901D-56BB7E4B5857",
-						"name": "Four of Spades",
-						"placement": 99
+						"name": "Four of Spades"
 					},
 					"8E949576-4946-4AC4-9522-D3E4C4E50741": {
 						"avatar": "http://files.d20.io/images/1452/med.png?1335737590",
 						"id": "8E949576-4946-4AC4-9522-D3E4C4E50741",
-						"name": "Seven of Diamonds",
-						"placement": 99
+						"name": "Seven of Diamonds"
 					},
 					"901BFB44-C41A-450F-B35D-868BCDE6CCFE": {
 						"avatar": "http://files.d20.io/images/1443/med.png?1335737512",
 						"id": "901BFB44-C41A-450F-B35D-868BCDE6CCFE",
-						"name": "Jack of Clubs",
-						"placement": 99
+						"name": "Jack of Clubs"
 					},
 					"9E920B87-A20E-42BA-B6E0-DD9022AE1DD2": {
 						"avatar": "http://files.d20.io/images/1484/med.png?1335737860",
 						"id": "9E920B87-A20E-42BA-B6E0-DD9022AE1DD2",
-						"name": "King of Spades",
-						"placement": 99
+						"name": "King of Spades"
 					},
 					"9FCC0D54-ACC0-4C6F-AB0F-3422851A90BE": {
 						"avatar": "http://files.d20.io/images/1482/med.png?1335737844",
 						"id": "9FCC0D54-ACC0-4C6F-AB0F-3422851A90BE",
-						"name": "Jack of Spades",
-						"placement": 99
+						"name": "Jack of Spades"
 					},
 					"9FFA798A-11F0-46DA-9807-9DC13FE366E4": {
 						"avatar": "http://files.d20.io/images/1436/med.png?1335737458",
 						"id": "9FFA798A-11F0-46DA-9807-9DC13FE366E4",
-						"name": "Four of Clubs",
-						"placement": 99
+						"name": "Four of Clubs"
 					},
 					"A5AD4508-1C42-40F3-BE37-4812C8012D65": {
 						"avatar": "http://files.d20.io/images/1480/med.png?1335737829",
 						"id": "A5AD4508-1C42-40F3-BE37-4812C8012D65",
-						"name": "Nine of Spades",
-						"placement": 99
+						"name": "Nine of Spades"
 					},
 					"A9B74EFD-47F1-4CC7-B472-7478D6D70C50": {
 						"avatar": "http://files.d20.io/images/1453/med.png?1335737598",
 						"id": "A9B74EFD-47F1-4CC7-B472-7478D6D70C50",
-						"name": "Eight of Diamonds",
-						"placement": 99
+						"name": "Eight of Diamonds"
 					},
 					"AB23A388-7747-4F7A-8F24-5220CCE2D25A": {
 						"avatar": "http://files.d20.io/images/1463/med.png?1335737690",
 						"id": "AB23A388-7747-4F7A-8F24-5220CCE2D25A",
-						"name": "Five of Hearts",
-						"placement": 99
+						"name": "Five of Hearts"
 					},
 					"AE50176D-2206-4738-B229-9886EB3DA253": {
 						"avatar": "http://files.d20.io/images/1444/med.png?1335737521",
 						"id": "AE50176D-2206-4738-B229-9886EB3DA253",
-						"name": "Queen of Clubs",
-						"placement": 99
+						"name": "Queen of Clubs"
 					},
 					"B4CF2B55-F81E-4508-9AE1-8019B0F04E7E": {
 						"avatar": "http://files.d20.io/images/1474/med.png?1335737781",
 						"id": "B4CF2B55-F81E-4508-9AE1-8019B0F04E7E",
-						"name": "Three of Spades",
-						"placement": 99
+						"name": "Three of Spades"
 					},
 					"B8F435D9-9B46-4F54-A1A1-1EEDCD099FC2": {
 						"avatar": "http://files.d20.io/images/1462/med.png?1335737682",
 						"id": "B8F435D9-9B46-4F54-A1A1-1EEDCD099FC2",
-						"name": "Four of Hearts",
-						"placement": 99
+						"name": "Four of Hearts"
 					},
 					"BBC550AA-8E90-4DBD-B6BF-CC4EE5358DF4": {
 						"avatar": "http://files.d20.io/images/1477/med.png?1335737804",
 						"id": "BBC550AA-8E90-4DBD-B6BF-CC4EE5358DF4",
-						"name": "Six of Spades",
-						"placement": 99
+						"name": "Six of Spades"
 					},
 					"BBF9DF2E-F7B8-4F74-B7A1-91CF426C582E": {
 						"avatar": "http://files.d20.io/images/1449/med.png?1335737560",
 						"id": "BBF9DF2E-F7B8-4F74-B7A1-91CF426C582E",
-						"name": "Four of Diamonds",
-						"placement": 99
+						"name": "Four of Diamonds"
 					},
 					"C0062CB1-16E7-49AC-84D1-CB6213C9F2AF": {
 						"avatar": "http://files.d20.io/images/1434/med.png?1335737442",
 						"id": "C0062CB1-16E7-49AC-84D1-CB6213C9F2AF",
-						"name": "Two of Clubs",
-						"placement": 99
+						"name": "Two of Clubs"
 					},
 					"C1E084D4-EC4F-4BF7-B9D3-BE99FAED12CF": {
 						"avatar": "http://files.d20.io/images/1479/med.png?1335737819",
 						"id": "C1E084D4-EC4F-4BF7-B9D3-BE99FAED12CF",
-						"name": "Eight of Spades",
-						"placement": 99
+						"name": "Eight of Spades"
 					},
 					"C8E365C7-C67E-4E71-BB17-68468C9E626F": {
 						"avatar": "http://files.d20.io/images/1461/med.png?1335737674",
 						"id": "C8E365C7-C67E-4E71-BB17-68468C9E626F",
-						"name": "Three of Hearts",
-						"placement": 99
+						"name": "Three of Hearts"
 					},
 					"C98763E1-4BB5-4D13-A1EC-3F7357F9CC4B": {
 						"avatar": "http://files.d20.io/images/1454/med.png?1335737606",
 						"id": "C98763E1-4BB5-4D13-A1EC-3F7357F9CC4B",
-						"name": "Nine of Diamonds",
-						"placement": 99
+						"name": "Nine of Diamonds"
 					},
 					"CB1B06E8-D1CE-4838-B4B7-B658132999CB": {
 						"avatar": "http://files.d20.io/images/1456/med.png?1335737624",
 						"id": "CB1B06E8-D1CE-4838-B4B7-B658132999CB",
-						"name": "Jack of Diamonds",
-						"placement": 99
+						"name": "Jack of Diamonds"
 					},
 					"CB38D043-5B95-4813-B039-60253A020CD6": {
 						"avatar": "http://files.d20.io/images/1441/med.png?1335737495",
 						"id": "CB38D043-5B95-4813-B039-60253A020CD6",
-						"name": "Nine of Clubs",
-						"placement": 99
+						"name": "Nine of Clubs"
 					},
 					"D949193A-FC9B-48FC-8CAD-5BD4071A7E18": {
 						"avatar": "http://files.d20.io/images/1446/med.png?1335737536",
 						"id": "D949193A-FC9B-48FC-8CAD-5BD4071A7E18",
-						"name": "Ace of Clubs",
-						"placement": 99
+						"name": "Ace of Clubs"
 					},
 					"E18687DE-9AFD-4F78-BC4D-7DDBC7943528": {
 						"avatar": "http://files.d20.io/images/1473/med.png?1335737774",
 						"id": "E18687DE-9AFD-4F78-BC4D-7DDBC7943528",
-						"name": "Two of Spades",
-						"placement": 99
+						"name": "Two of Spades"
 					},
 					"EB0BD770-5E05-4488-AC58-88196BD442A1": {
 						"avatar": "http://files.d20.io/images/1440/med.png?1335737488",
 						"id": "EB0BD770-5E05-4488-AC58-88196BD442A1",
-						"name": "Eight of Clubs",
-						"placement": 99
+						"name": "Eight of Clubs"
 					},
 					"EB7D24C2-30B9-4D96-890A-1C064C90D050": {
 						"avatar": "http://files.d20.io/images/1470/med.png?1335737745",
 						"id": "EB7D24C2-30B9-4D96-890A-1C064C90D050",
-						"name": "Queen of Hearts",
-						"placement": 99
+						"name": "Queen of Hearts"
 					},
 					"EFDB047C-C683-4623-86D5-DBA4E4ED058E": {
 						"avatar": "http://files.d20.io/images/1485/med.png?1335737869",
 						"id": "EFDB047C-C683-4623-86D5-DBA4E4ED058E",
-						"name": "Ace of Spades",
-						"placement": 99
+						"name": "Ace of Spades"
 					},
 					"F2D8AE23-CF91-4CEA-BC17-AEB643A17BC9": {
 						"avatar": "http://files.d20.io/images/1487/med.png?1335737884",
 						"id": "F2D8AE23-CF91-4CEA-BC17-AEB643A17BC9",
-						"name": "Red Joker",
-						"placement": 99
+						"name": "Red Joker"
 					},
 					"F92A58C4-8349-426D-9930-98AB387981BD": {
 						"avatar": "http://files.d20.io/images/1447/med.png?1335737545",
 						"id": "F92A58C4-8349-426D-9930-98AB387981BD",
-						"name": "Two of Diamonds",
-						"placement": 99
+						"name": "Two of Diamonds"
 					}
 				},
 				"id": "A778E120-672D-49D0-BAF8-8646DA3D3FAC",
@@ -7867,270 +7813,6 @@
 			"path": [
 				"Root",
 				"Player References"
-			]
-		},
-		{
-			"id": "-M57ggqVkJtcUjSn0IDR",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57UiLHZVvTb7RRJRKR",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57hI9k98WYnxxGV_WA",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57hIfQTEJso004_TLr",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57hJ7zlbLvh1a8Fm3s",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57hJb2uBrcbUmUnKgO",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57hjARbYorY9YnFJse",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57hrPIvVwDn_wI9BFA",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57hsGvgAJysqhjxZU5",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57hryyaDJluzw1JZNj",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57hrimFdJAhI11Vrzf",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57hkDRXEmWU28TOIe_",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57hkTm_GWWwqXoCjYs",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57hjYPgIz9vkmHSRgE",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57hjuT_UxkPbaFhRm3",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57icW_E8XiPiDaRy1r",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57idCJqkLLnYbOtRCc",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57idZ2hEwvjvPX37za",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57idw9_yJ6hAdczJsC",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57ieH72bZh-iBCxyxR",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57ifks4plSRFoHFuQo",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57ifRNGU3MhdHOvbme",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57iekBAb73D-hhQLl5",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M57if5vPK2Wp17YlgwW",
-			"path": [
-				"Root",
-				"Player References",
-				"Occupations"
-			]
-		},
-		{
-			"id": "-M5Nm8cbWvWX3fGcGSbC",
-			"path": [
-				"Root",
-				"Horror on the Orient Express",
-				"Keeper"
-			]
-		},
-		{
-			"id": "-MARWa2GEgPz-7YWMclk",
-			"path": [
-				"Root",
-				"Horror on the Orient Express",
-				"Investigators"
-			]
-		},
-		{
-			"id": "-MLJITjMbUWz0LEnDYkA",
-			"path": [
-				"Root",
-				"Horror on the Orient Express",
-				"Investigators"
-			]
-		},
-		{
-			"id": "-MLJIUIHIHHVKAuD1fnz",
-			"path": [
-				"Root",
-				"Horror on the Orient Express",
-				"Investigators"
-			]
-		},
-		{
-			"id": "-MLJIZAizhZ40W-naH6u",
-			"path": [
-				"Root",
-				"Horror on the Orient Express",
-				"Investigators"
-			]
-		},
-		{
-			"id": "-MLJIZX5iImanwwb1NsR",
-			"path": [
-				"Root",
-				"Horror on the Orient Express",
-				"Investigators"
-			]
-		},
-		{
-			"id": "-MLJIZq9Vk86WD57CIRA",
-			"path": [
-				"Root",
-				"Horror on the Orient Express",
-				"Investigators"
-			]
-		},
-		{
-			"id": "-M6LrDncVm-3i7EO-2vS",
-			"path": [
-				"Root",
-				"Horror on the Orient Express",
-				"Investigators"
-			]
-		},
-		{
-			"id": "-M4z_Zqpt1sb0HkRLqxg",
-			"path": [
-				"Root",
-				"Horror on the Orient Express",
-				"Investigators"
 			]
 		},
 		{
@@ -8540,46 +8222,6 @@
 			]
 		},
 		{
-			"id": "-M4zxA08lJ0YapQjVbI9",
-			"path": [
-				"Root",
-				"Horror on the Orient Express",
-				"NPCs"
-			]
-		},
-		{
-			"id": "-M5--ljMJiGHosfWbtf8",
-			"path": [
-				"Root",
-				"Horror on the Orient Express",
-				"NPCs"
-			]
-		},
-		{
-			"id": "-M5-1WSAIDV8iz80Hsy5",
-			"path": [
-				"Root",
-				"Horror on the Orient Express",
-				"NPCs"
-			]
-		},
-		{
-			"id": "-M53ctAnxpRNuZJTZHK-",
-			"path": [
-				"Root",
-				"Horror on the Orient Express",
-				"Monsters"
-			]
-		},
-		{
-			"id": "-M54fEbmHD_n7XmRZSs_",
-			"path": [
-				"Root",
-				"Horror on the Orient Express",
-				"Monsters"
-			]
-		},
-		{
 			"id": "-M4zi4-w0IRNEFAWTEEg",
 			"path": [
 				"Root",
@@ -8970,6 +8612,118 @@
 				"To Come",
 				"The Doom Train"
 			]
+		},
+		{
+			"id": "-M5Nm8cbWvWX3fGcGSbC",
+			"path": [
+				"Root",
+				"Horror on the Orient Express",
+				"Keeper"
+			]
+		},
+		{
+			"id": "-M6LrDncVm-3i7EO-2vS",
+			"path": [
+				"Root",
+				"Horror on the Orient Express",
+				"Investigators"
+			]
+		},
+		{
+			"id": "-M4z_Zqpt1sb0HkRLqxg",
+			"path": [
+				"Root",
+				"Horror on the Orient Express",
+				"Investigators"
+			]
+		},
+		{
+			"id": "-MARWa2GEgPz-7YWMclk",
+			"path": [
+				"Root",
+				"Horror on the Orient Express",
+				"Investigators"
+			]
+		},
+		{
+			"id": "-MLJITjMbUWz0LEnDYkA",
+			"path": [
+				"Root",
+				"Horror on the Orient Express",
+				"Investigators"
+			]
+		},
+		{
+			"id": "-MLJIUIHIHHVKAuD1fnz",
+			"path": [
+				"Root",
+				"Horror on the Orient Express",
+				"Investigators"
+			]
+		},
+		{
+			"id": "-MLJIZAizhZ40W-naH6u",
+			"path": [
+				"Root",
+				"Horror on the Orient Express",
+				"Investigators"
+			]
+		},
+		{
+			"id": "-MLJIZX5iImanwwb1NsR",
+			"path": [
+				"Root",
+				"Horror on the Orient Express",
+				"Investigators"
+			]
+		},
+		{
+			"id": "-MLJIZq9Vk86WD57CIRA",
+			"path": [
+				"Root",
+				"Horror on the Orient Express",
+				"Investigators"
+			]
+		},
+		{
+			"id": "-M4zxA08lJ0YapQjVbI9",
+			"path": [
+				"Root",
+				"Horror on the Orient Express",
+				"NPCs"
+			]
+		},
+		{
+			"id": "-M5--ljMJiGHosfWbtf8",
+			"path": [
+				"Root",
+				"Horror on the Orient Express",
+				"NPCs"
+			]
+		},
+		{
+			"id": "-M5-1WSAIDV8iz80Hsy5",
+			"path": [
+				"Root",
+				"Horror on the Orient Express",
+				"NPCs"
+			]
+		},
+		{
+			"id": "-M53ctAnxpRNuZJTZHK-",
+			"path": [
+				"Root",
+				"Horror on the Orient Express",
+				"Monsters"
+			]
+		},
+		{
+			"id": "-M54fEbmHD_n7XmRZSs_",
+			"path": [
+				"Root",
+				"Horror on the Orient Express",
+				"Monsters"
+			]
 		}
 	],
 	"handouts": [
@@ -8977,7 +8731,7 @@
 			"attributes": {
 				"name": "London Handout #1",
 				"notes": 1586971468460,
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391438/1affg-53oOg_Pl6-SoAd_Q/max.png?1587659440",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Dancers%20in%20the%20Evening%20Fog/London%20Handout%20%231.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -8991,7 +8745,7 @@
 			"attributes": {
 				"name": "London Handout #2",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391429/2xp09F1M1Kv0yXeAvONw5A/max.png?1587659440",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Dancers%20in%20the%20Evening%20Fog/London%20Handout%20%232.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9005,7 +8759,7 @@
 			"attributes": {
 				"name": "London Handout #3",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391426/t_yQAWSmfnUyJWiOoi-RcQ/max.png?1587659440",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Dancers%20in%20the%20Evening%20Fog/London%20Handout%20%233.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9019,7 +8773,7 @@
 			"attributes": {
 				"name": "London Handout #4",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391427/RRKSNxsHW6bGIUEDWx9msQ/max.png?1587659440",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Dancers%20in%20the%20Evening%20Fog/London%20Handout%20%234.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9033,7 +8787,7 @@
 			"attributes": {
 				"name": "London Handout #5",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391424/k21bUFYED2clIjpnZYjhcA/max.png?1587659440",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Dancers%20in%20the%20Evening%20Fog/London%20Handout%20%235.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9047,7 +8801,7 @@
 			"attributes": {
 				"name": "London Handout #6",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391428/_D-pPWYeq4iNS00tCARu2w/max.png?1587659440",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/The%20Doom%20Train/London%20Handout%20%236.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9061,7 +8815,7 @@
 			"attributes": {
 				"name": "Telegram Handout #1",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391434/EGN_caOvnMN2rsr-H2I5QQ/max.png?1587659440",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Dancers%20in%20the%20Evening%20Fog/Telegram%20Handout%20%231.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9075,7 +8829,7 @@
 			"attributes": {
 				"name": "Telegram Handout #2",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391435/8W4Kvn0pO4eytGkVJtAlqQ/max.png?1587659440",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Dancers%20in%20the%20Evening%20Fog/Telegram%20Handout%20%232.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9089,7 +8843,7 @@
 			"attributes": {
 				"name": "Telegram Handout #3",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391437/2DH-cnmzfweTlFE9t8Guzg/max.png?1587659440",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Dancers%20in%20the%20Evening%20Fog/Telegram%20Handout%20%233.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9103,7 +8857,7 @@
 			"attributes": {
 				"name": "Telegram Handout #4",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391436/YoW1ce_BdOnj9cZsbvpmWQ/max.png?1587659440",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Dancers%20in%20the%20Evening%20Fog/Telegram%20Handout%20%234.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9117,7 +8871,7 @@
 			"attributes": {
 				"name": "Air Routes",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126390432/v05SH7ssKB2dSplgByFQ2g/max.jpg?1587659271",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Maps/Air%20Routes.jpg?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9131,7 +8885,7 @@
 			"attributes": {
 				"name": "Routes of the Orient Express",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126390445/N1SSMYZX5L81Nh9FnjSIcQ/max.jpg?1587659272",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Maps/Routes%20of%20the%20Orient%20Express.jpg?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9145,7 +8899,7 @@
 			"attributes": {
 				"name": "Simulacrum Torso",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391449/JLnwR-75_STaK702cqM1RA/max.png?1587659441",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Sedefkar/Simulacrum%20Torso.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9159,7 +8913,7 @@
 			"attributes": {
 				"name": "Simulacrum Right Leg",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391432/ZpJPrrfTftj11KtcKPSnuA/max.png?1587659440",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Sedefkar/Simulacrum%20Right%20Leg.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9173,7 +8927,7 @@
 			"attributes": {
 				"name": "Simulacrum Right Arm",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391430/sjJDvs6Yz-v2z5HmCWth5Q/max.png?1587659440",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Sedefkar/Simulacrum%20Right%20Arm.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9187,7 +8941,7 @@
 			"attributes": {
 				"name": "Simulacrum Left Leg",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391431/37ioCCf-WHVhVwHJoniu2A/max.png?1587659440",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Sedefkar/Simulacrum%20Left%20Leg.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9201,7 +8955,7 @@
 			"attributes": {
 				"name": "Simulacrum Left Arm",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391443/SZ6dtELVhprHcxHG8XzV6A/max.png?1587659440",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Sedefkar/Simulacrum%20Left%20Arm.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9215,7 +8969,7 @@
 			"attributes": {
 				"name": "Simulacrum Head",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391450/7jLVq8ObncPtrvPZQW2R9Q/max.png?1587659441",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Sedefkar/Simulacrum%20Head.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9229,7 +8983,7 @@
 			"attributes": {
 				"name": "Scroll of the Head",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391453/MiWtUfS5Z1M7lkkH3__oOQ/max.png?1587659442",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Sedefkar/Scroll%20of%20the%20Head.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9274,7 +9028,7 @@
 			"attributes": {
 				"name": "October to December",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126389815/yyOlSoJVdKCgtsgke20aCg/med.png?1587659207",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/1923%20Calendar/Calendar%204.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9288,7 +9042,7 @@
 			"attributes": {
 				"name": "July to September",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126389740/ZMAIyKAwaPtnOEazMGhjrQ/med.png?1587659189",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/1923%20Calendar/Calendar%203.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9302,7 +9056,7 @@
 			"attributes": {
 				"name": "April to June",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126389652/fuTXV6gRsQhUHaBGpSCoeA/med.png?1587659173",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/1923%20Calendar/Calendar%202.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -9316,7 +9070,7 @@
 			"attributes": {
 				"name": "January to March",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126389561/uaWzZOUWOXJ4_CpL4Q0xOA/med.png?1587659151",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/1923%20Calendar/Calendar%201.png?raw=true",
 				"inplayerjournals": "all",
 				"archived": false,
 				"tags": "[]",
@@ -9330,7 +9084,7 @@
 			"attributes": {
 				"name": "News Aboard The Orient Express",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126391433/mP7j-ogPzO9zORcSyy98Iw/max.png?1587659440",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/World%20Events.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -10105,7 +9859,7 @@
 			"attributes": {
 				"name": "The British Museum",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126390439/LlzOLYAnSteiKwLo9ChDnw/max.png?1587659272",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Maps/British%20Museum.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -10177,345 +9931,9 @@
 		},
 		{
 			"attributes": {
-				"name": "Occupations 02/49",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378302/3JxdlMKOFfDWYUfQKKyrsA/max.png?1587657379",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57UiLHZVvTb7RRJRKR"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 01/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378299/4YrPngzFcaW61PkW05PzEA/max.png?1587657379",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57ggqVkJtcUjSn0IDR"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 03/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378277/7uDRM2XqRptftjss44AW1w/max.png?1587657378",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57hI9k98WYnxxGV_WA"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 04/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378269/L_Co-sAxM4h3cPtcxJ8J9Q/max.png?1587657377",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57hIfQTEJso004_TLr"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 05/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378272/UglPemwrX8TXJ9TIEQAqhg/max.png?1587657377",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57hJ7zlbLvh1a8Fm3s"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 06/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378274/RfMtTXfV1cjLLGHY3rXivQ/max.png?1587657378",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57hJb2uBrcbUmUnKgO"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 07/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378276/nQs7PZMt7XXGIxdHMZnbEA/max.png?1587657378",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57hjARbYorY9YnFJse"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 14/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378285/Qxt7ht5Nec6ACon9fRhEFw/max.png?1587657378",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57hjYPgIz9vkmHSRgE"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 15/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378284/zI9QoXeZHkP9RXDayz6EOg/max.png?1587657378",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57hjuT_UxkPbaFhRm3"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 12/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378283/crjQkgduoWvZePaM5GXYBA/max.png?1587657378",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57hkDRXEmWU28TOIe_"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 13/24",
-				"notes": "",
-				"avatar": "https://www.dropbox.com/s/f8fpis92xll6gva/Call%20of%20Cthulhu_%20Investigator%27s%20-%20Keith%20Herber-80.png?dl=1",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57hkTm_GWWwqXoCjYs"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 08/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378273/u-EipoHcVbDOm7PapEUAIg/max.png?1587657377",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57hrPIvVwDn_wI9BFA"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 11/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378280/fZ9yRsPf-2YN5C_pgYyxiA/max.png?1587657378",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57hrimFdJAhI11Vrzf"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 10/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378279/n6Zm5yaD78bQLx8YGKwt0w/max.png?1587657378",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57hryyaDJluzw1JZNj"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 09/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378275/VzMB_sFo3Kx6s5DUDNCbhA/max.png?1587657378",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57hsGvgAJysqhjxZU5"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 16/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378291/F7kILW5sHoI8gAJEkBdc7Q/max.png?1587657378",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57icW_E8XiPiDaRy1r"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 17/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378286/Dcd-1ZQ9mUH-ElLB5VhYpQ/max.png?1587657378",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57idCJqkLLnYbOtRCc"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 18/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378294/caVXen7a8GNBzGqUnA4yNQ/max.png?1587657379",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57idZ2hEwvjvPX37za"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 19/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378289/Qc9QURcWL_DPEuxBvAuV2A/max.png?1587657378",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57idw9_yJ6hAdczJsC"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 20/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378290/DgOl_4gnTetZgWM7OApx5A/max.png?1587657378",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57ieH72bZh-iBCxyxR"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 23/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378297/r42aNWBo7-OSAaaaZJDEzw/max.png?1587657379",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57iekBAb73D-hhQLl5"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 24/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378298/IgGkfdZbnSk9LRqDfe5WvA/max.png?1587657379",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57if5vPK2Wp17YlgwW"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 22/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378296/Qe83_P_fWsZiZllkVj4WwA/max.png?1587657379",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57ifRNGU3MhdHOvbme"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
-				"name": "Occupations 21/24",
-				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126378293/NweCm1QjJPAwa_rA-79bVA/max.png?1587657378",
-				"inplayerjournals": "all",
-				"archived": false,
-				"tags": "[]",
-				"controlledby": "",
-				"id": "-M57ifks4plSRFoHFuQo"
-			},
-			"blobNotes": "",
-			"blobGmNotes": ""
-		},
-		{
-			"attributes": {
 				"name": "London, Capital of the British Isles",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126383041/Z9JHhdyI88VSbFuWwble0w/max.png?1587658123",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Maps/London.png?raw=true",
 				"inplayerjournals": "all",
 				"archived": false,
 				"tags": "[]",
@@ -10529,7 +9947,7 @@
 			"attributes": {
 				"name": "Paris, the City of Light",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126387956/jTE5MdOV8cuho1LcPl8ZRg/max.png?1587658881",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Maps/Paris.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -10543,7 +9961,7 @@
 			"attributes": {
 				"name": "Lausanne, the City by the Lake",
 				"notes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126383067/TpyDGscoukw96-3T6PZUhg/max.png?1587658128",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/Handouts/Maps/Lausanne.png?raw=true",
 				"inplayerjournals": "",
 				"archived": false,
 				"tags": "[]",
@@ -11092,7 +10510,7 @@
 				"name": "Dr. Julius Smith",
 				"bio": "",
 				"gmnotes": 1587089528999,
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126395487/KZx7qN9WZeyUD2gZKsza1A/max.png?1587660132",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/NPCs/Dr%20Julius%20Smith.png?raw=true",
 				"inplayerjournals": "",
 				"controlledby": "",
 				"defaulttoken": "",
@@ -11112,7 +10530,7 @@
 				},
 				{
 					"name": "sheet_version",
-					"current": "2.2",
+					"current": "5.1",
 					"max": "",
 					"id": "-M4zxAS6XroF3EwaL0n4"
 				},
@@ -11607,6 +11025,24 @@
 					"current": "",
 					"max": "",
 					"id": "-M6LnP-yiZIeGXCVFiEd"
+				},
+				{
+					"name": "translation_bonuspenalty",
+					"current": "bonus / penalty",
+					"max": "",
+					"id": "-MZNTdWK2FZVIDWAVGBs"
+				},
+				{
+					"name": "translation_bonus",
+					"current": "bonus",
+					"max": "",
+					"id": "-MZNTdWM_RVJMfULUuX_"
+				},
+				{
+					"name": "translation_penalty",
+					"current": "penalty",
+					"max": "",
+					"id": "-MZNTdWN9k9DyYy5fLIG"
 				}
 			],
 			"blobBio": "",
@@ -11618,7 +11054,7 @@
 				"name": "James Beddows",
 				"bio": "",
 				"gmnotes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126394819/XFhP64dyuc3MDmkFLG-ltw/max.png?1587660017",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/NPCs/James%20Beddows.png?raw=true",
 				"inplayerjournals": "",
 				"controlledby": "",
 				"defaulttoken": "",
@@ -11638,7 +11074,7 @@
 				},
 				{
 					"name": "sheet_version",
-					"current": "2.2",
+					"current": "5.1",
 					"max": "",
 					"id": "-M5--mgP8ytM8LCJkctF"
 				},
@@ -11875,6 +11311,24 @@
 					"current": "Age 62, Manservant to Dr. Smith",
 					"max": "",
 					"id": "-M5-1t0B6Bp2le8zFLmc"
+				},
+				{
+					"name": "translation_bonuspenalty",
+					"current": "bonus / penalty",
+					"max": "",
+					"id": "-MZNTotdB99mUl0MXJdG"
+				},
+				{
+					"name": "translation_bonus",
+					"current": "bonus",
+					"max": "",
+					"id": "-MZNTotijV6F-iDFuYGH"
+				},
+				{
+					"name": "translation_penalty",
+					"current": "penalty",
+					"max": "",
+					"id": "-MZNTotq_1V-5OO-VCmK"
 				}
 			],
 			"blobBio": "",
@@ -11886,7 +11340,7 @@
 				"name": "Mehmet Makryat",
 				"bio": "",
 				"gmnotes": "",
-				"avatar": "https://s3.amazonaws.com/files.d20.io/images/126395487/KZx7qN9WZeyUD2gZKsza1A/max.png?1587660132",
+				"avatar": "https://github.com/WondringLisa/CoC-Roll20/blob/main/Horror%20on%20the%20Orient%20Express/Assets/NPCs/Dr%20Julius%20Smith.png?raw=true",
 				"inplayerjournals": "",
 				"controlledby": "",
 				"defaulttoken": "",
@@ -11906,7 +11360,7 @@
 				},
 				{
 					"name": "sheet_version",
-					"current": "2.2",
+					"current": "5.1",
 					"max": "",
 					"id": "-M5-1XKNGCOK58yJxioJ"
 				},
@@ -12533,6 +11987,24 @@
 					"current": "5 minutes per magic point spent, binding takes 1 round",
 					"max": "",
 					"id": "-M5-AnDLu-2fzv5Vefpi"
+				},
+				{
+					"name": "translation_bonuspenalty",
+					"current": "bonus / penalty",
+					"max": "",
+					"id": "-MZNVJiRg28U8W_zV-Wr"
+				},
+				{
+					"name": "translation_bonus",
+					"current": "bonus",
+					"max": "",
+					"id": "-MZNVJiV08MXCzNGP8nu"
+				},
+				{
+					"name": "translation_penalty",
+					"current": "penalty",
+					"max": "",
+					"id": "-MZNVJi_L9gSVeN2wi4l"
 				}
 			],
 			"blobBio": "",
